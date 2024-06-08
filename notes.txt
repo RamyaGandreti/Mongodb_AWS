@@ -1,0 +1,8 @@
+
+   Database name : products
+   Collection Name : NodeJs
+   UserName : RamyaPatnaik
+   Password : Ramya9898
+   
+
+Connection URL: mongodb+srv://RamyaPatnaik:Ramya9898@cluster0.vd4zok7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
